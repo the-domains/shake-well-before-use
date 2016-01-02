@@ -1,0 +1,28 @@
+name: Shake Well Before Use
+favicon: null
+layout_spectrum: 0.532360683195293
+typography_spectrum: 0.62588109401986
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6663875600788742
+  lightness: 0.969800892053172
+  saturation: 0.1145764400716871
+  rhythmicContrast: 0.679893409833312
+purpose: []
